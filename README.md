@@ -63,3 +63,7 @@ open "/Applications/MacFold Duo Animation.app"
 ## Поддержать проект
 
 Если приложение вам понравилось, проект можно [поддержать через DonationAlerts](https://www.donationalerts.com/r/f0r90113nnzh).
+
+## Ключевые слова
+
+MacFold, MacFold Duo Animation, MacBook fold animation, MacBook lid animation, macOS fold effect, macOS menu bar app, MacBook hinge angle, MacBook lid angle sensor, laptop folding animation, screen folding effect, iPhone Duo animation, Apple fold animation, liquid glass macOS, frosted glass effect, Swift macOS app, ScreenCaptureKit, анимация закрытия MacBook, анимация складывания экрана, эффект складывания MacBook, датчик угла крышки MacBook, приложение для строки меню macOS, матовое стекло macOS.
